@@ -13,6 +13,7 @@
 		7D3666561D84AF84009B1550 /* Add_Delete_Item_App.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 7D3666541D84AF84009B1550 /* Add_Delete_Item_App.xcdatamodeld */; };
 		7D3666581D84AF84009B1550 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7D3666571D84AF84009B1550 /* Assets.xcassets */; };
 		7D36665B1D84AF84009B1550 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7D3666591D84AF84009B1550 /* LaunchScreen.storyboard */; };
+		7D3666631D84F26B009B1550 /* ItemTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D3666621D84F26B009B1550 /* ItemTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7D3666571D84AF84009B1550 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7D36665A1D84AF84009B1550 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7D36665C1D84AF84009B1550 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7D3666621D84F26B009B1550 /* ItemTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ItemTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				7D36664D1D84AF84009B1550 /* AppDelegate.swift */,
 				7D36664F1D84AF84009B1550 /* ViewController.swift */,
 				7D3666511D84AF84009B1550 /* Main.storyboard */,
+				7D3666621D84F26B009B1550 /* ItemTableViewCell.swift */,
 				7D3666571D84AF84009B1550 /* Assets.xcassets */,
 				7D3666591D84AF84009B1550 /* LaunchScreen.storyboard */,
 				7D36665C1D84AF84009B1550 /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7D3666631D84F26B009B1550 /* ItemTableViewCell.swift in Sources */,
 				7D3666501D84AF84009B1550 /* ViewController.swift in Sources */,
 				7D36664E1D84AF84009B1550 /* AppDelegate.swift in Sources */,
 				7D3666561D84AF84009B1550 /* Add_Delete_Item_App.xcdatamodeld in Sources */,
