@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Add Delete Item App
 //
-//  Created by Franklin on 2016-09-10.
+//  Created by Kim Nguyen on 2016-09-10.
 //  Copyright © 2016 Kim Nguyen. All rights reserved.
 //
 
